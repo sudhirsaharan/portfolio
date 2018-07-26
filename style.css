@@ -5,6 +5,9 @@
   color: white; 
 }
 .pt-70 {padding-top: 70px;}
+.pt-30{padding-top: 30px;}
+.pl-15{padding-left: 15px;}
+.full-width{width:100%;}
 
 	.navbar {
   padding-top: 20px;
